@@ -1,0 +1,12 @@
+H:\Dotnet Project\Project\HMS Project\HMS Project\bin\HMS Project.dll.config
+H:\Dotnet Project\Project\HMS Project\HMS Project\bin\HMS Project.dll
+H:\Dotnet Project\Project\HMS Project\HMS Project\bin\HMS Project.pdb
+H:\Dotnet Project\Project\HMS Project\HMS Project\obj\Debug\HMS Project.csprojResolveAssemblyReference.cache
+H:\Dotnet Project\Project\HMS Project\HMS Project\obj\Debug\HMS Project.dll
+H:\Dotnet Project\Project\HMS Project\HMS Project\obj\Debug\HMS Project.pdb
+H:\DotnetProject\Project\HMS Project\HMSProject\bin\HMS Project.dll.config
+H:\DotnetProject\Project\HMS Project\HMSProject\bin\HMS Project.dll
+H:\DotnetProject\Project\HMS Project\HMSProject\bin\HMS Project.pdb
+H:\DotnetProject\Project\HMS Project\HMSProject\obj\Debug\HMS Project.csprojResolveAssemblyReference.cache
+H:\DotnetProject\Project\HMS Project\HMSProject\obj\Debug\HMS Project.dll
+H:\DotnetProject\Project\HMS Project\HMSProject\obj\Debug\HMS Project.pdb
